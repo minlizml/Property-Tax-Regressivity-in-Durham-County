@@ -5,6 +5,7 @@ This project analyzes property tax assessment disparities across **Durham County
 Using **R** for data processing, I cleaned and merged multiple property assessment datasets, performed statistical analysis to identify inequities, and developed an interactive **Tableau dashboard** with geographic mapping and filtering capabilities.
 
 The dashboard enables advocacy groups and homeowners to visualize assessment patterns, compare properties across neighborhoods, and access data-driven evidence to support potential tax appeals.
+https://public.tableau.com/app/profile/stephanie.johnston/viz/FairSharePropertyTaxDashboard/Dashboard
 <img width="1103" height="526" alt="image" src="https://github.com/user-attachments/assets/df990784-7a25-44b7-9fe6-1891d806b11a" />
 
 
